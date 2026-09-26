@@ -1,0 +1,13 @@
+[
+    {
+        "testcaseid" : "TC001",
+        "username" : "Demosalesmanager",
+        "password" : "crmsfa"
+    },
+
+    {
+        "testcaseid" : "TC002",
+        "username" : "democsr2",
+        "password" : "crmsfa"
+    }
+]
