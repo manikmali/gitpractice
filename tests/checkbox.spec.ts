@@ -13,7 +13,7 @@ await page.waitForTimeout(5000)
 
 })
 
-test.only(`Verify multiple check boxes`, {tag: '@sanity'}, async({page})=> {
+test(`Verify multiple check boxes`, {tag: '@sanity'}, async({page})=> {
 await page.goto(`https://www.qa-practice.com/elements/checkbox/mult_checkbox`)
 await page.check(`//input[@value="one"]`)
 await page.check(`//input[@value="two"]`)
