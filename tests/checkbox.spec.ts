@@ -1,6 +1,6 @@
 import {test, expect} from '@playwright/test'
 
-test(`Verify multiple check box option`, async({page})=> {
+test(`Verify multiple check box option`, {tag: '@sanity'}, async({page})=> {
 
 await page.goto(`https://leafground.com/checkbox.xhtml`)
 

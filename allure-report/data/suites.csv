@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6834","Verify the default select radio button","chromium","2026-09-29","passed","2026-09-29","","radiobutton.spec.ts","",""
+"","10341","Verify the hover functionality","chromium","2026-09-29","passed","2026-09-29","","hover.spec.ts","",""
+"","5441","Verify multiple check boxes","chromium","2026-09-29","passed","2026-09-29","","checkbox.spec.ts","",""
+"","7359","Verify multiple check box option","chromium","2026-09-29","passed","2026-09-29","","checkbox.spec.ts","",""

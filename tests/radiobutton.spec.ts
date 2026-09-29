@@ -11,7 +11,7 @@ await page.waitForTimeout(3000)
 })
 
 
-test.only(`Verify the default select radio button`, async({page}) => {
+test(`Verify the default select radio button`, {tag: '@sanity'}, async({page}) => {
 await page.goto(`https://leafground.com/radio.xhtml`)
 
 const dft_btns = page.locator(`//table[@id='j_idt87:console2']//label`)
